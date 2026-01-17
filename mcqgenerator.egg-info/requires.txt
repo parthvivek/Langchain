@@ -5,5 +5,3 @@ python-dotenv
 PyPDF2
 requests
 beautifulsoup4
-
--e .

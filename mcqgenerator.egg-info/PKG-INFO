@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: mcqgenerator
+Version: 0.0.1
+Author: Vivek Kumar
+Author-email: kumarvivekgupta18012000@gmail.com
+License-File: LICENSE
+Requires-Dist: langchain
+Requires-Dist: langchain-google-genai
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
