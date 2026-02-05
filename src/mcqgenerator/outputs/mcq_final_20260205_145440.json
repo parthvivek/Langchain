@@ -1,0 +1,112 @@
+{
+  "1": {
+    "no": "1",
+    "question": "The text describes generative AI as a form of predictive artificial intelligence. Which statement best explains this classification?",
+    "options": {
+      "A": "It forecasts the success rate of marketing campaigns based on generated content.",
+      "B": "It anticipates user queries before they are explicitly entered into the system.",
+      "C": "It predicts the optimal sequence and choice of words or elements to construct a novel response to a prompt.",
+      "D": "It analyzes historical data to predict future trends in various industries."
+    },
+    "correct_answer": "C"
+  },
+  "2": {
+    "no": "2",
+    "question": "What was a key distinguishing characteristic of Google Bard's underlying language model, PaLM-2, at the time of its release, as highlighted in the text?",
+    "options": {
+      "A": "It was the first generative AI model to integrate with Google's suite of productivity tools.",
+      "B": "It was specifically designed for multimodal content generation across text, images, and audio.",
+      "C": "It was trained on the largest dataset among all generative AI models available at that time.",
+      "D": "It was developed by a profit-capped company with a mission to serve humankind."
+    },
+    "correct_answer": "C"
+  },
+  "3": {
+    "no": "3",
+    "question": "According to Gartner's projection mentioned in the text, what percentage of new drugs created by researchers in 2025 are expected to utilize generative design principles?",
+    "options": {
+      "A": "15 percent",
+      "B": "20 percent",
+      "C": "25 percent",
+      "D": "30 percent"
+    },
+    "correct_answer": "D"
+  },
+  "4": {
+    "no": "4",
+    "question": "Beyond generating marketing text and images, what specific application of generative AI is highlighted for enhancing customer interaction in advertising and marketing?",
+    "options": {
+      "A": "Automating the entire customer service process through advanced chatbots.",
+      "B": "Creating powerful and more interactive product recommendation engines.",
+      "C": "Developing comprehensive market research reports from unstructured data.",
+      "D": "Facilitating real-time A/B testing of various advertising campaign elements."
+    },
+    "correct_answer": "B"
+  },
+  "5": {
+    "no": "5",
+    "question": "Which of the following is NOT explicitly listed as a popular use of generative AI in healthcare, despite its diverse applications?",
+    "options": {
+      "A": "Creating synthetic data for research and training.",
+      "B": "Educating patients about their conditions and treatment options.",
+      "C": "Streamlining complex surgical procedures through robotic assistance.",
+      "D": "Assisting with clinical documentation and patient information summaries."
+    },
+    "correct_answer": "C"
+  },
+  "6": {
+    "no": "6",
+    "question": "What unique aspect of OpenAI's corporate identity and mission is described in the context of its generative AI models like ChatGPT and DALL-E?",
+    "options": {
+      "A": "It operates as a non-profit research institution focused solely on open-source AI development.",
+      "B": "It is a Microsoft-backed, profit-capped company with a mission to develop AI to serve humankind.",
+      "C": "Its primary goal is to achieve artificial general intelligence for exclusive commercial licensing.",
+      "D": "It functions as an independent entity, entirely self-funded, to avoid external influence on its AI development."
+    },
+    "correct_answer": "B"
+  },
+  "7": {
+    "no": "7",
+    "question": "In the context of drug discovery, generative AI is applied through a related field. What is this field called, and what is its projected impact on new drug creation by 2025?",
+    "options": {
+      "A": "Predictive Analytics; 20% of new drugs will use its principles.",
+      "B": "Computational Chemistry; 25% of new drugs will use its principles.",
+      "C": "Generative Design; 30% of new drugs will use its principles.",
+      "D": "Machine Learning Optimization; 35% of new drugs will use its principles."
+    },
+    "correct_answer": "C"
+  },
+  "8": {
+    "no": "8",
+    "question": "According to Gartner's prediction, what percentage of outbound marketing materials will be created using generative AI by 2025?",
+    "options": {
+      "A": "15 percent",
+      "B": "20 percent",
+      "C": "25 percent",
+      "D": "30 percent"
+    },
+    "correct_answer": "D"
+  },
+  "9": {
+    "no": "9",
+    "question": "Which of the following represents a general capability of generative AI, rather than a specific industry application or task?",
+    "options": {
+      "A": "Enhancing medical images for diagnostic purposes.",
+      "B": "Generating code for software development.",
+      "C": "Creating personalized treatment plans for patients.",
+      "D": "Developing product descriptions for e-commerce platforms."
+    },
+    "correct_answer": "B"
+  },
+  "10": {
+    "no": "10",
+    "question": "How does generative AI fundamentally operate to produce an output based on a user's prompt?",
+    "options": {
+      "A": "It retrieves and displays the most relevant existing information from its training data.",
+      "B": "It applies pre-defined rules and templates to assemble a response from a database of pre-approved content.",
+      "C": "It uses machine learning to consult a trained model and predict the best possible unique answer.",
+      "D": "It directly translates the user's prompt into a query for a vast, indexed repository of human-created content."
+    },
+    "correct_answer": "C"
+  }
+}

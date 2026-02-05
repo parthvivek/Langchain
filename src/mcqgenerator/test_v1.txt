@@ -1,0 +1,54 @@
+What is generative AI?
+Generative AI is artificial intelligence designed to create unique text or image results in response to user prompts. The technology uses machine learning to return an output based on the user’s prompt. AI engineers train the technology using large data sets, which the model consults when determining the best possible answer to a prompt. Another way to look at generative AI is as a form of predictive artificial intelligence. Based on the information provided, generative AI will predict which words and in which order will give the best answer to the user's prompts.
+
+You can use generative AI to create new written, visual, or audio content, summarize complex data, generate code, assist with repetitive tasks, or make customer service more personalized.
+
+
+Examples of generative AI
+Examples of generative artificial intelligence that you may have heard of include Google’s Bard, ChatGPT, or DALL-E from OpenAI.
+
+
+ChatGPT or DALL-E: Generative artificial intelligence created by OpenAI, a Microsoft-backed, profit-capped company with the mission to develop artificial intelligence to serve humankind
+
+
+Google Bard: Google’s generative AI with integrations to Google products like Google Lens and Gmail, operating with a language model called PaLM-2 that was trained on the largest data set out of all generative AI models available at the time of its release
+
+
+What are the applications of generative AI?
+Generative artificial intelligence has applications in diverse industries such as health care, manufacturing, software development, financial services, media and entertainment, and advertising and marketing. Let’s examine some of the different ways professionals in these industries apply generative AI to their field.
+
+1. Health care and pharmaceuticals
+Generative artificial intelligence has applications for all parts of the health care and pharmaceutical industry, from discovering and developing new life-saving medicine to personalizing treatment plans for individual patients to creating predictive images for charting disease progression. Some of the possibilities for generational AI in health care include:
+
+
+Enhancing medical images: Generative AI can augment medical images like X-rays or MRIs, synthesize images, reconstruct images, or create reports about images. This technology can even generate new images to demonstrate how a disease may progress in time.
+
+
+Discovering new drugs: Researchers can use generative artificial intelligence via a related field called generative design to research and develop new medicines. Gartner projects that 30 percent of the new drugs created by researchers in 2025 will use generative design principles [1].
+
+
+Simplify tasks with patient notes and information: Healthcare professionals keep and take notes about patient medical care. Generational AI can build patient information summaries, create transcripts of verbally recorded notes, or find essential details in medical records more effectively than human efforts.
+
+
+Personalized treatment: Generative AI can consider a large amount of patient information, including medical images and genetic testing, to deliver a customized treatment plan tailored to the patient's needs.
+
+
+What is the primary application of generative AI in health care?
+Health care professionals use generative AI for a variety of tasks, depending on their resources and patient needs, meaning you won’t find one “primary application.” However, Generative AI is often used for data generation, such as text and image generation, which leads to its popular use in creating synthetic data, educating patients, discovering drugs, and helping with clinical documentation.
+
+
+2. Advertising and marketing
+Generative artificial intelligence offers many solutions to professionals working in advertising and marketing, such as generating text and images needed for marketing or finding new ways to interact with customers. Here are some examples of generative AI applications in advertising and marketing:
+
+
+Generate marketing text and images: Generative AI can help marketing professionals create consistent, on-brand text and images to use in marketing campaigns. This technology also offers translation tools to spread your marketing message into new territories. Gartner predicts that marketing professionals will use generative AI to create 30 percent of outbound marketing materials by 2025 [1].
+
+
+Generate personalized recommendations: Generative AI helps create powerful recommendation engines to help customers discover new products they might like. With generative AI, this process is more interactive for customers.
+
+
+Create product descriptions: Beyond flashy advertising campaigns, generative artificial intelligence can help with tedious or time-consuming content requirements like creating product descriptions.
+
+
+Enhance search engine optimization: SEO professionals can use generative AI for tasks like image tags or page titles or to create content drafts. You could also use a tool like ChatGPT or Bard to recommend changes you could make to content to improve SEO ranking.
+
